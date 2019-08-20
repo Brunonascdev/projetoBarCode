@@ -1,0 +1,105 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body, html{
+background: #c9fff8;
+}
+
+.titulo{
+  font-family: 'Lexend Deca', sans-serif;
+  text-align: center;
+  font-size: 30px;
+  margin-top: 10%;
+}
+
+p{
+  font-family: 'Lexend Deca', sans-serif;
+  text-align: center;
+  font-size: 18px;
+  margin-top: 5%;
+}
+
+.btnCodigo{
+  font-family: 'Lexend Deca', sans-serif;
+  padding: 18px;
+  width: 60%;
+  margin-top: 10%;
+  background-color: #22c1c3;
+  border: none;
+  border-radius: 5px;
+  font-size: 22px;
+  margin-left: 20%;
+   box-shadow: 0 0 1em #363636;
+}
+
+.btnCodigo:focus{
+  outline: 0;
+}
+
+.btnCodigo:active{
+  background-color: #2e2e2e;
+  color: white;
+}
+
+.ipadfoto{
+  margin-top: -10%;
+  width: 40vh;
+  margin-bottom: -20%;
+}
+
+.conteudo{
+  margin-top: 60%;
+}
+
+.infIpad{
+  display: none;
+}
+
+.infGalaxy{
+  display: none;
+}
+
+.infMoto{
+  display: none;
+}
+
+.infZen{
+  display: none;
+}
+
+.samsungfoto{
+  margin-top: 3%;
+  width: 30vh;
+}
+
+#remake{
+  font-family: 'Lexend Deca', sans-serif;
+  padding: 18px;
+  width: 60%;
+  margin-top: 5%;
+  background-color: #22c1c3;
+  border: none;
+  border-radius: 5px;
+  font-size: 22px;
+  margin-left: 20%;
+}
+
+#remake:focus{
+  outline: 0;
+}
+
+#remake:active{
+  background-color: #2e2e2e;
+  color: white;
+}
+
+.zenfoto{
+  width: 30vh;
+}
+
+.gifclass{
+  margin-top: -40%;
+  width: 40vh;
+}
